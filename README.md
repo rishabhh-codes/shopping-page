@@ -1,2 +1,3 @@
-# Amazon-clone
-A simple Amazon homepage front-end clone built using HTML and CSS. Fully responsive layout with custom design elements, mimicking Amazon’s UI.
+# Shopping Homepage Clone
+This is a front-end clone of a shopping website homepage using HTML and CSS. Fully responsive and mobile-friendly layout.
+
